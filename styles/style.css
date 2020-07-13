@@ -199,6 +199,10 @@ audio {
 
 /* Comments styling */
 
+.errors {
+  background-color: yellow;
+}
+
 .comments {
   background-color: #def;
   padding: 10px;
